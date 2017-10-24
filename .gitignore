@@ -1,0 +1,7 @@
+*.log
+*.dvi
+*.tcp
+*.tps
+*.aux
+*.bbl
+*.blg
